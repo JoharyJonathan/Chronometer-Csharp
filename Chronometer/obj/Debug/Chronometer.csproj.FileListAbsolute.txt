@@ -1,0 +1,9 @@
+E:\C# projects\Chronometer\Chronometer\bin\Debug\Chronometer.exe.config
+E:\C# projects\Chronometer\Chronometer\bin\Debug\Chronometer.exe
+E:\C# projects\Chronometer\Chronometer\bin\Debug\Chronometer.pdb
+E:\C# projects\Chronometer\Chronometer\obj\Debug\Chronometer.csprojResolveAssemblyReference.cache
+E:\C# projects\Chronometer\Chronometer\obj\Debug\Chronometer.Form1.resources
+E:\C# projects\Chronometer\Chronometer\obj\Debug\Chronometer.Properties.Resources.resources
+E:\C# projects\Chronometer\Chronometer\obj\Debug\Chronometer.csproj.GenerateResource.Cache
+E:\C# projects\Chronometer\Chronometer\obj\Debug\Chronometer.exe
+E:\C# projects\Chronometer\Chronometer\obj\Debug\Chronometer.pdb
